@@ -4,7 +4,9 @@ Hi 👋 My name is Yinhu Cui
 Software Engineer
 -----------------
 
-I am a highly motivated and skilled software engineer with a passion for creating efficient and innovative solutions. With a strong background in various programming languages and a proven track record of successful projects, I am constantly seeking opportunities to enhance my skills and learn from everyone. Throughout my career, I have gained extensive experience in algorithms, data structures, complex database queries, and industry-standard SQL database schemata. I have worked with a diverse set of languages including Java, Python, HTML, CSS, SQL, JavaScript, and TypeScript, enabling me to adapt quickly to new technologies and programming paradigms.
+I am a highly motivated and skilled software engineer with a passion for creating efficient and innovative solutions. With a strong background in various programming languages and a proven track record of successful projects, I am constantly seeking opportunities to enhance my skills and learn from everyone. 
+
+Throughout my career, I have gained extensive experience in algorithms, data structures, complex database queries, and industry-standard SQL database schemata. I have worked with a diverse set of languages including Java, Python, HTML, CSS, SQL, JavaScript, and TypeScript, enabling me to adapt quickly to new technologies and programming paradigms.
 
 * ✉️  You can contact me at [yinhucui@gmail.com](mailto:yinhucui@gmail.com)
 * 🚀  I'm currently working on [agile-tasker](http://github.com/YinhuC/agile-tasker)
@@ -44,9 +46,3 @@ I am a highly motivated and skilled software engineer with a passion for creatin
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/YinhuC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yinhucui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/YinhuC"><img src="https://github-readme-stats.vercel.app/api?username=YinhuC&show_icons=true&hide=contribs&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="YinhuC's GitHub stats" /></a>
