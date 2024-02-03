@@ -1,7 +1,7 @@
 Hi 👋 My name is Yinhu Cui
 ==========================
 
-Software Engineer
+Full Stack Software Engineer
 -----------------
 
 Here to learn, create things and have fun :)
