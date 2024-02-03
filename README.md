@@ -9,7 +9,6 @@ I am a highly motivated and skilled software engineer with a passion for creatin
 Throughout my career, I have gained extensive experience in algorithms, data structures, complex database queries, and industry-standard SQL database schemata. I have worked with a diverse set of languages including Java, Python, HTML, CSS, SQL, JavaScript, and TypeScript, enabling me to adapt quickly to new technologies and programming paradigms.
 
 * ✉️  You can contact me at [yinhucui@gmail.com](mailto:yinhucui@gmail.com)
-* 🚀  I'm currently working on [agile-tasker](http://github.com/YinhuC/agile-tasker)
 
 ### Skills
 
