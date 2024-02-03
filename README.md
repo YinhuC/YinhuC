@@ -4,7 +4,7 @@ Hi 👋 My name is Yinhu Cui
 Software Engineer
 -----------------
 
-Here to learn, create thing and have fun :)
+Here to learn, create things and have fun :)
 
 * ✉️  You can contact me at [yinhucui@gmail.com](mailto:yinhucui@gmail.com)
 
