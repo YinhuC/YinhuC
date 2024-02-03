@@ -4,9 +4,7 @@ Hi 👋 My name is Yinhu Cui
 Software Engineer
 -----------------
 
-I am a highly motivated and skilled software engineer with a passion for creating efficient and innovative solutions. With a strong background in various programming languages and a proven track record of successful projects, I am constantly seeking opportunities to enhance my skills and learn from everyone. 
-
-Throughout my career, I have gained extensive experience in algorithms, data structures, complex database queries, and industry-standard SQL database schemata. I have worked with a diverse set of languages including Java, Python, HTML, CSS, SQL, JavaScript, and TypeScript, enabling me to adapt quickly to new technologies and programming paradigms.
+Here to learn, create thing and have fun :)
 
 * ✉️  You can contact me at [yinhucui@gmail.com](mailto:yinhucui@gmail.com)
 
